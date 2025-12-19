@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class DistanceConversion{
+ public static void main(String args[]){
+ Scanner input = new Scanner(System.in);
+   double km = sc.nextInt();
+   double miles = km / 1.6;
+   
+   System.out.print(
+     "The total miles is " + miles + " mile for the given " + km + "km"
+   );
+   
+   sc.close();
+ }
+}
