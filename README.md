@@ -50,7 +50,7 @@ BridgeLabz-Training/
 *** Day 4 -  Control Flow & Logical Constructs  
     => Date: 19-Dec-2025
 
-- Studied logical constructs in Java:
+- Studied logical statements in Java:
   - if, if-else
   - switch statement
   - ternary operator
@@ -81,3 +81,42 @@ BridgeLabz-Training/
 
 
 🔗 Code link - https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays
+
+*** Day - 6 Strings
+    => Date: 22-Dec-2025
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 Code link - https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings
+
+*** Day - 7 Java methhods
+    => Date: 23-12-2025
+
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 Code link - https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
+
+
+*** Day 8 – Extra Questions Practice  
+    => Date: 23-Dec-2025
+
+- Practiced Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 Code link - https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS
