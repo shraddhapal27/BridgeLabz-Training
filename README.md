@@ -1,6 +1,6 @@
 --- Week 1: Git, GitHub & Java Programming Fundamentals
 
- Day 1 – Git & GitHub Setup  
+*** Day 1 – Git & GitHub Setup  
   => Date: 16-Dec-2025
 
 - Installed and configured Git.
@@ -24,7 +24,7 @@ BridgeLabz-Training/
 - Pushed files into the remote repository successfully.
 
 
-Day 2 - Git and very basic programming concepts
+*** Day 2 - Git and very basic programming concepts
   => Date: 17-Dec-2025
 
   - Solved some basic programs including taking input from the user and printing the output.
