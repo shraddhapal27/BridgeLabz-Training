@@ -22,3 +22,13 @@ BridgeLabz-Training/
 
 - Learned some basic Git commands (init, clone, add, commit, push).
 - Pushed files into the remote repository successfully.
+
+
+Day 2 - Git and very basic programming concepts
+  => Date: 17-Dec-2025
+
+  - Solved some basic programs including taking input from the user and printing the output.
+  - Also used some git commands such as git init, commit, and push.
+  - Completed my given assignments.
+
+
