@@ -91,7 +91,7 @@ BridgeLabz-Training/
 🔗 Code link - 
 [Day - 5 Java Arrays Practice](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
----
+# Week -2 Object-Oriented Programming
 
 ### Day - 6 Java methods Practice
 **(Date: 22-Dec-2025)**
@@ -139,5 +139,21 @@ BridgeLabz-Training/
 [Day - 8 Extras Practice](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/EXTRAS)
 
 ---
+
+### Day 9 – Daily Practice
+**(Date: 26-Dec-2025)**
+
+-Scenario-based Problems:
+  -ElectionBoothManager
+  -MetroSmartCard
+  -RajResult
+  -BMIProgram
+  -CoffeeCounter
+-LeetCode problems solved, including Add Digits, Missing Number, Fibonacci and Anagram Check
+Code committed successfully; practised core programming concepts.
+🔗 Code Link:
+[Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+
 
 
