@@ -1,4 +1,5 @@
-# Week 1: Git, GitHub & Java Programming Fundamentals
+# This repository documents my day-wise learning and practice of Core Java concepts and github.
+## Week 1: Git, GitHub & Java Programming Fundamentals
 
 ### Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
@@ -91,7 +92,6 @@ BridgeLabz-Training/
 🔗 Code link - 
 [Day - 5 Java Arrays Practice](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
-# Week -2 Object-Oriented Programming
 
 ### Day - 6 Java methods Practice
 **(Date: 22-Dec-2025)**
