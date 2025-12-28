@@ -92,6 +92,7 @@ BridgeLabz-Training/
 🔗 Code link - 
 [Day - 5 Java Arrays Practice](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
+---
 
 ### Day - 6 Java methods Practice
 **(Date: 22-Dec-2025)**
