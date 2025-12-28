@@ -140,12 +140,35 @@ BridgeLabz-Training/
 
 ---
 
-Day 9 – OOPs, POPs, Classes & Objects
-(Date: 26-Dec-2025)
+### Day 9 – OOPs, POPs, Classes & Objects
+**(Date: 26-Dec-2025)**
 
 -Learned OOPs and POPs concepts and understood why Object-Oriented Programming is preferred over Procedural Programming
 -Studied classes and objects using a real-world Food Delivery App example to model data and behaviour
 -Followed best programming practices such as encapsulation, meaningful naming conventions, constructors, and use of comments
 -Implemented an OOP-based program demonstrating object creation, method usage, and memory allocation
 
-🔗 Code Link: [Java classes and objects](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+🔗 Code Link:
+[Day - 9 Java classes and objects](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+
+---
+
+### Day 10 – Constructors & Access Modifiers
+ **(Date: 27-Dec-2025)**
+
+-Studied constructors:
+ -Default constructor
+ -Parameterized constructor
+ 
+-Studied access modifiers:
+ -public
+ -private
+ -protected
+ -default
+
+-Implemented programs using protected access modifier
+-Practiced constructor-based initialization
+-Pushed all programs to GitHub
+
+🔗 Code Link:
+[Day 10 –  Constructors & Access Modifiers](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com)
