@@ -12,12 +12,12 @@ public class CoffeeCounter {
         // Continue serving customers until user types "exit"
         while (true) {
 
-            System.out.println("\nEnter coffee type (espresso/latte/cappuccino) or type 'exit' to stop:");
+            System.out.println("\nEnter coffee type: \n 1.espresso \n 2.latte \n 3.cappuccino");
             String coffeeType = sc.next().toLowerCase();
 
             // Exit condition
             if (coffeeType.equals("exit")) {
-                System.out.println("Thank you for visiting Ravi's Café ☕");
+                System.out.println("Thank you for visiting Ravi's Café ");
                 break;
             }
 
@@ -49,12 +49,12 @@ public class CoffeeCounter {
             double finalBill = totalPrice + gstAmount;
 
             // Display bill
-            System.out.println("----- BILL DETAILS -----");
+            System.out.println(" BILL DETAILS ");
             System.out.println("Coffee Type : " + coffeeType);
             System.out.println("Quantity    : " + quantity);
-            System.out.println("Base Price  : ₹" + totalPrice);
-            System.out.println("GST (5%)    : ₹" + gstAmount);
-            System.out.println("Total Bill  : ₹" + finalBill);
+            System.out.println("Base Price  : " + totalPrice);
+            System.out.println("GST (5%)    : " + gstAmount);
+            System.out.println("Total Bill  : " + finalBill);
         }
 
         sc.close();
