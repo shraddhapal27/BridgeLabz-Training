@@ -1,37 +1,37 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class NumberGuessingGame {
-
-    static int generateGuess(int low, int high) {
-        return (low + high) / 2;   // Binary search logic
-    }
-
-    static String getFeedback(Scanner sc) {
-        System.out.print("Enter feedback (high / low / correct): ");
-        return sc.next();
-    }
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int low = 1, high = 100;
-        String feedback;
-        int guess;
-
-        System.out.println("Think of a number between 1 and 100.");
-
-        while (true) {
-            guess = generateGuess(low, high);
-            System.out.println("Computer guess: " + guess);
-            feedback = getFeedback(sc);
-
-            if (feedback.equalsIgnoreCase("correct")) {
-                System.out.println("Computer guessed correctly!");
-                break;
-            } else if (feedback.equalsIgnoreCase("high")) {
-                high = guess - 1;
-            } else if (feedback.equalsIgnoreCase("low")) {
-                low = guess + 1;
-            }
-        }
+public class NumberGuessing{
+  public static void main(String[] args){
+    Scanner sc = new Scanner(System.in);
+	
+	int random = (int)(Math.random()*100) + 1;
+	int attempts = 0;
+	int maxAttempts = 5;
+	int guess;
+	
+	System.out.println("Welcome to the  number guessing game--- ");
+	System.out.print("Enter your number between 1 and 100");
+	
+	do{
+	 System.out.println("Enter your guess : ");
+	  guess = sc.nextInt();
+	  attempts++;
+	  
+	  if(guess > random){
+	  System.out.println("Too high");
+	  }else if(guess < random){
+	  System.out.println("Too low");
+	  }else{
+	  System.out.println("Hurrah ! you guessed the right answer.");
+	  break;
+	  }
+	}
+	while(maxAttempts > attempts );
+	  if(guess != random){
+	  System.out.println("The game is over. The correct number was : " + random);
+	  }
+	
+  }
+}
     }
 }
