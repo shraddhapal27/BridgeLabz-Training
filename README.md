@@ -91,7 +91,7 @@ BridgeLabz-Training/
 🔗 Code link - 
 [Day - 5 Java Arrays Practice](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
-# Week -2 Object-Oriented Programming
+# Week - 2 Core Java and Object-Oriented Programming
 
 ### Day - 6 Java methods Practice
 **(Date: 22-Dec-2025)**
@@ -172,3 +172,29 @@ BridgeLabz-Training/
 
 🔗 Code Link:
 [Day 10 –  Constructors & Access Modifiers](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com)
+
+---
+
+# Week - 3 Exploring OOPs
+
+### Day 11 - OOPs keywords
+**(Date: 29-Dec-2025)**
+
+Studied:
+
+- Static keyword
+- Final keyword
+- this keyword
+- instanceof operator
+
+**Practice Work:**
+- Implemented programs using static variables, methods, and blocks
+- Used final keyword with variables, methods, and classes
+- Practiced usage of this keyword for:
+- Referring to current class instance variables
+- Constructor chaining
+- Implemented programs using **instanceof** to check object type at runtime
+- Codes written and pushed to GitHub
+
+🔗 Code Link:
+[OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
