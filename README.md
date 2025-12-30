@@ -47,16 +47,16 @@ This repository documents my **day-wise learning and practice** of Core Java con
 ### 🔹 Day 3
 **Topics Studied:**
 
--static keyword
--final keyword
--this keyword
--instanceof operator
+- Static keyword
+- Final keyword
+- this keyword
+- instanceof operator
 
-Practice Work:
--Implemented programs using static variables, methods, and blocks
--Used final keyword with variables, methods, and classes
--Practiced usage of this keyword for:
--Referring to current class instance variables
--Constructor chaining
--Implemented programs using instanceof to check object type at runtime
--Codes written and pushed to GitHub
+**Practice Work:**
+- Implemented programs using static variables, methods, and blocks
+- Used final keyword with variables, methods, and classes
+- Practiced usage of this keyword for:
+- Referring to current class instance variables
+- Constructor chaining
+- Implemented programs using **instanceof** to check object type at runtime
+- Codes written and pushed to GitHub
