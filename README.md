@@ -40,3 +40,23 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Implemented programs using **protected access modifier**
 - Understood access control across classes and packages
 - Codes written and pushed to GitHub
+
+---
+
+
+### 🔹 Day 3
+**Topics Studied:**
+
+- Static keyword
+- Final keyword
+- this keyword
+- instanceof operator
+
+**Practice Work:**
+- Implemented programs using static variables, methods, and blocks
+- Used final keyword with variables, methods, and classes
+- Practiced usage of this keyword for:
+- Referring to current class instance variables
+- Constructor chaining
+- Implemented programs using **instanceof** to check object type at runtime
+- Codes written and pushed to GitHub
