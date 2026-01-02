@@ -22,6 +22,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 
 - Codes written and pushed to GitHub
 
+- Code link : [Classes and objects](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+
 ---
 
 ### 🔹 Day 2
@@ -40,6 +42,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Implemented programs using **protected access modifier**
 - Understood access control across classes and packages
 - Codes written and pushed to GitHub
+
+- Code link : [Constructors](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
 
 ---
 
@@ -60,3 +64,48 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Constructor chaining
 - Implemented programs using **instanceof** to check object type at runtime
 - Codes written and pushed to GitHub
+
+- Code link : [Keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
+---
+
+### 🔹 Day 4
+**Topics Studied:**
+
+- OOPS Modeling
+- Real-world object modeling using classes and objects
+- Identifying attributes and behaviors
+- Relationship between objects (has-a, uses-a)
+
+**Practice Work:**
+
+- Designed class diagrams conceptually
+- Solved real-world based OOPS modeling questions
+- Implemented Java programs based on problem statements
+- Improved understanding of converting requirements into code
+- Codes written and pushed to GitHub
+
+- Code link : [OOPs modelling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oopsmodelling)
+
+---
+
+###🔹 Day 5
+**Topics Studied:**
+
+- Inheritance
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Method overriding
+- super keyword
+
+ **Practice Work:**
+- Implemented programs demonstrating different types of inheritance
+- Used method overriding to achieve runtime polymorphism
+- Practiced usage of super keyword with variables, methods, and constructors
+- Solved inheritance-based problem statements
+- Codes written and pushed to GitHub
+
+- Code link : [Inheritance](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+---
