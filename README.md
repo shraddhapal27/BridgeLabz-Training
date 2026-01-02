@@ -22,6 +22,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 
 - Codes written and pushed to GitHub
 
+- Code link : [Classes and objects](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+
 ---
 
 ### 🔹 Day 2
@@ -40,6 +42,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Implemented programs using **protected access modifier**
 - Understood access control across classes and packages
 - Codes written and pushed to GitHub
+
+- Code link : [Constructors](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
 
 ---
 
@@ -61,6 +65,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Implemented programs using **instanceof** to check object type at runtime
 - Codes written and pushed to GitHub
 
+- Code link : [Keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
 ---
 
 ### 🔹 Day 4
@@ -78,6 +84,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Implemented Java programs based on problem statements
 - Improved understanding of converting requirements into code
 - Codes written and pushed to GitHub
+
+- Code link : [OOPs modelling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oopsmodelling)
 
 ---
 
@@ -97,5 +105,7 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Practiced usage of super keyword with variables, methods, and constructors
 - Solved inheritance-based problem statements
 - Codes written and pushed to GitHub
+
+- Code link : [Inheritance](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ---
