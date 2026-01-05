@@ -109,3 +109,59 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Code link : [Inheritance](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ---
+
+###🔹 Day 5
+**Topics Studied:**
+
+- Implemented complete programs using:
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Interfaces
+- Focused on converting problem statements into modular Java code
+- Improved logical thinking and design approach
+
+- Code link : [OOPs features](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
+---
+
+###🔹 Day 5
+**Topics Studied:**
+
+Topics Studied:
+
+- Advanced OOPS application
+- Revision of Core Java concepts
+
+  **Practice Work:**
+
+- Solved two scenario-based questions
+- Applied multiple OOPS concepts in a single program
+- Improved code structure, readability, and reusability
+- Strengthened confidence in Core Java fundamentals
+
+Code link : [Day-1 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
+
+---
+
+###🔹 Day 6
+**Topics Studied:**
+
+- Solved five scenario-based questions
+- Applied multiple OOPS concepts in a single program
+- Improved code structure, readability, and reusability
+- Strengthened confidence in Core Java fundamentals
+
+Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day2)
+
+---
+
+###🔹 Day 7
+**Topics Studied:**
+
+- Solved two scenario-based questions
+- Applied multiple OOPS concepts in a single program
+- Improved code structure, readability, and reusability
+- Strengthened confidence in Core Java fundamentals
+
+Code link : [Day-3 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day3)
