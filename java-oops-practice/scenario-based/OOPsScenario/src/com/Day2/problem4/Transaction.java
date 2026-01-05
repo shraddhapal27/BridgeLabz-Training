@@ -1,0 +1,16 @@
+package com.Day2.problem4;
+
+class Transaction {
+    private String type;
+    private double amount;
+
+    public Transaction(String type, double amount) {
+        this.type = type;
+        this.amount = amount;
+    }
+
+    public void showTransaction() {
+        System.out.println(type + " : ₹" + amount);
+    }
+}
+
