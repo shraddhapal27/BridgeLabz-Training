@@ -89,7 +89,7 @@ This repository documents my **day-wise learning and practice** of Core Java con
 
 ---
 
-###🔹 Day 5
+### 🔹 Day 5
 **Topics Studied:**
 
 - Inheritance
@@ -110,7 +110,7 @@ This repository documents my **day-wise learning and practice** of Core Java con
 
 ---
 
-###🔹 Day 5
+### 🔹 Day 6
 **Topics Studied:**
 
 - Implemented complete programs using:
@@ -125,10 +125,8 @@ This repository documents my **day-wise learning and practice** of Core Java con
 
 ---
 
-###🔹 Day 5
+### 🔹 Day 7
 **Topics Studied:**
-
-Topics Studied:
 
 - Advanced OOPS application
 - Revision of Core Java concepts
@@ -144,7 +142,7 @@ Code link : [Day-1 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
 
 ---
 
-###🔹 Day 6
+### 🔹 Day 8
 **Topics Studied:**
 
 - Solved five scenario-based questions
@@ -156,7 +154,7 @@ Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
 
 ---
 
-###🔹 Day 7
+### 🔹 Day 9
 **Topics Studied:**
 
 - Solved two scenario-based questions
