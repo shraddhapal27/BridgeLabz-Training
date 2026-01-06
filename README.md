@@ -138,7 +138,7 @@ This repository documents my **day-wise learning and practice** of Core Java con
 - Improved code structure, readability, and reusability
 - Strengthened confidence in Core Java fundamentals
 
-Code link : [Day-1 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
+- Code link : [Day-1 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
 
 ---
 
@@ -151,7 +151,7 @@ Code link : [Day-1 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
 - Improved code structure, readability, and reusability
 - Strengthened confidence in Core Java fundamentals
 
-Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day2)
+- Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day2)
 
 ---
 
@@ -163,20 +163,30 @@ Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
 - Improved code structure, readability, and reusability
 - Strengthened confidence in Core Java fundamentals
 
-Code link : [Day-2 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day3)
+Code link : [Day-3 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day3)
 
-### 🔹 Day 2
+---
+
+### 🔹 Day 3
 **Topics Studied:**
 
 - Solved two scenario-based questions
- 1. Campus connect
-  - In this inheritance, interfaces, encapsulation, operators, and polymorphism to manage students, faculty, courses, and academic operations efficiently.
+ - Campus connect
+ - SwiftCart
+- Code link : [Day-4 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day4)
 
- 2. SwiftCart
-  - An online grocery shopping app built using Core Java.
-#### Features
-- Product management
-- Cart & checkout
-- Discount system
+---
 
-Code link : [Day-3 questions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day4)
+### 🔹 Day 4
+**Topics Studied:**
+
+- Solved scenario based problems, including
+ - EduMentor
+ - FitTrack
+ - VirtualPetCareApp
+ - EventEase
+
+- Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
+
+---
