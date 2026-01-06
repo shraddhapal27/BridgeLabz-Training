@@ -144,17 +144,77 @@ BridgeLabz-Training/
 ### Day 9 – Daily Practice
 **(Date: 26-Dec-2025)**
 
+solved daily problems on the topics studied
 -Scenario-based Problems:
-  -ElectionBoothManager
-  -MetroSmartCard
-  -RajResult
-  -BMIProgram
+  -BmiCalculator
   -CoffeeCounter
 -LeetCode problems solved, including Add Digits, Missing Number, Fibonacci and Anagram Check
 Code committed successfully; practised core programming concepts.
 🔗 Code Link:
-[Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+[Scenario-based Problems Day-1](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-1)
 
+---
+
+
+### Day 10 – Daily Practice
+**(Date: 27-Dec-2025)**
+
+solved daily problems on the topics studied
+-Scenario-based Problems:
+  - ElectionBoothManager
+  - MetroSmartCard
+  - ResultGenerator
+
+🔗 Code Link:
+[Scenario-based Problems Day-2](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-2)
+
+---
+
+### Day 11 – Daily Practice
+**(Date: 28-Dec-2025)**
+
+solved daily problems on the topics studied
+-Scenario-based Problems:
+  - NumberGuessing
+  - ParkingLotSystem
+  - PhoneRechargeSimulator
+  - SchoolBusAttendance
+  - ShopkeeperDiscount
+
+🔗 Code Link:
+[Scenario-based Problems Day-3](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+
+---
+
+### Day 12 – Daily Practice
+**(Date: 29-Dec-2025)**
+
+solved daily problems on the topics studied
+-Scenario-based Problems:
+ - FitnessChallenge
+ - LibraryReminder
+ - MovieTicketBooking
+ - TemperatureLogger
+ - TrainReservation
+
+🔗 Code Link:
+[Scenario-based Problems Day-4](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
+
+---
+
+### Day 13 – Daily Practice
+**(Date: 30-Dec-2025)**
+
+solved daily problems on the topics studied
+-Scenario-based Problems:
+ - BusRouteDistance
+ - CurrencyExchanger
+ - DigitalWatchSimulator
+ - FestivalLuckyDraw
+ - OnlineQuizApplication
+
+🔗 Code Link:
+[Scenario-based Problems Day-5](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
 
 
 
