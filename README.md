@@ -200,6 +200,7 @@ Studied:
 
 🔗 Code Link:
 [OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
@@ -230,6 +231,7 @@ Studied:
 
  🔗 Code Link:
  [OOPs modelling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oopsmodelling)
+ 
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
 ---
@@ -250,6 +252,7 @@ Studied:
 
 🔗 Code Link:
 [Inheritance](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
 
 ---
@@ -262,7 +265,9 @@ Studied:
 - Practised oops-based scenario problems, including
   - Bank Account
   - Online Shopping Cart
-🔗Code Link:  [Encapsulation, Polymorphism, Abstract Class & Interface](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
+🔗Code Link:  [Encapsulation,Polymorphism,Abstract Class & Interface](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+
 [Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
 
 ### 📅 Day 15 – Explored DSA, Practiced LinkedList and Oops-based Scenario problems
@@ -277,8 +282,10 @@ Studied:
   - University Course Enrollment System
   - Vehicle Rental Application
   - Hospital Patient Management System
+ 
 🔗Code Link:
 [LinkedList Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
+
 [Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day2)
 
 ---
@@ -298,6 +305,7 @@ Studied:
 
  🔗Code Link: 
  [Stack, Queue, hash map and functions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandhashproblems)
+ 
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day3)
 
 ---
@@ -318,6 +326,7 @@ Studied:
    
    🔗Code Link: 
    [Sorting](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+  
    [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day4)
 
   ---
@@ -325,6 +334,21 @@ Studied:
 ### 📅 Day 18 – Searching Algorithms Practice and OOPs-based Scenario problems
 **(Date: 06-Jan-2026)**
 
+- Searching Algorithms
+  - Implemented Linear Search to find elements in arrays and lists.
+  - Practiced Binary Search on sorted arrays for efficient element lookup.
+  - String Handling with StringBuilder and StringBuffer
+- StringBuilder
+  - Practiced mutable string operations: append, insert, reverse, delete.
+- StringBuffer
+  - Learned thread-safe string manipulation methods.
+  - File Handling with FileReader and InputStreamReader
+- FileReader
+  - Read files character by character and line by line.
+  - Solved problems such as counting occurrences of a word in a file.
+- InputStreamReader
+  - Converted byte streams to character streams.
+  - Read user input from console and wrote to files.
 - Solved scenario based problems, including
    - EduMentor
    - FitTrack
@@ -334,5 +358,7 @@ Studied:
 
  🔗Code Link: 
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
+ 
+ [Searching algorithms](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)
 
   
