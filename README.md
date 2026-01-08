@@ -185,8 +185,30 @@ Code link : [Day-3 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
  - FitTrack
  - VirtualPetCareApp
  - EventEase
-
 - Code Link:
-[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
+  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
 
 ---
+
+### 🔹 Day 5
+**Topics Studied:**
+
+- Solved two scenario based problems, including
+ - PetPal
+ - EventEase
+- Code Link:
+  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
+
+---
+
+### 🔹 Day 6
+**Topics Studied:**
+
+- Solved two scenario based problems, including
+  - BookBazaar
+  - LoanBuddy
+  - ParkEase
+- Code Link:
+  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day6)
+
+  
