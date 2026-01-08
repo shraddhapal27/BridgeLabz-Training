@@ -361,4 +361,18 @@ Studied:
  
  [Searching algorithms](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)
 
+---
+
+  
+### 📅 Day 19 – Big O notations and scenario based questions
+**(Date: 07-Jan-2026)**
+
+- Studied Runtime Analysis & Big-O Notation
+- Explored time and space complexity
+- Best and worst cases for complexities
+- Solved three scenario based questions
+
+  🔗Code Link:
+  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day6)
+
   
