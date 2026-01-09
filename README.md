@@ -142,6 +142,8 @@ BridgeLabz-Training/
 
 ---
 
+
+# Week 2: Worked on Java OOPs Practice Problems and Scenario-based Problems
 ###  📅 Day 9 – OOPs, POPs, Classes & Objects
 **(Date: 26-Dec-2025)**
 
@@ -177,7 +179,6 @@ BridgeLabz-Training/
 
 ---
 
-# Week - 3 Worked on Java OOPs Practice Problems and Scenario-based Problems
 ###  📅 Day 11 - OOPs keywords
 **(Date: 29-Dec-2025)**
 
@@ -270,6 +271,7 @@ Studied:
 
 [Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
 
+# Week 3: Data Structures and Algorithms
 ### 📅 Day 15 – Explored DSA, Practiced LinkedList and Oops-based Scenario problems
 **(Date: 02-Jan-2026)**
 
@@ -362,7 +364,6 @@ Studied:
  [Searching algorithms](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)
 
 ---
-
   
 ### 📅 Day 19 – Big O notations and scenario based questions
 **(Date: 07-Jan-2026)**
@@ -375,4 +376,19 @@ Studied:
   🔗Code Link:
   [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day6)
 
+  ---
+  
+### 📅 Day 20 –  scenario based questions
+**(Date: 08-Jan-2026)**
+
+- Solved two scenario based questions named
+  - MediStore
+  - TourMate
+
+ 🔗Code Link:
+  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day7)
+
+  ---
+  
+  
   
