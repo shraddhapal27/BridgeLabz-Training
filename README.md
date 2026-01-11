@@ -65,3 +65,19 @@ This repository documents my day-wise learning progress during the BridgeLabz Co
   - Read user input from console and wrote to files.
  
 🔗Code Link: [Searching algorithms](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)
+
+---
+
+### Day 5 - Runtime analysis
+**(Date: 07-Jan-2026)**
+
+- Studied about time and space complexities here
+- Learned about big O notations
+- How to calculate these complexities
+
+---
+
+### Day 6 - Scenario Based problem
+**(Date: 10-Jan-2026)**
+- Practiced scenario based questions on Data structures and algorithms
+- In these questions concept of linked list, hashmap, stack, queues is used.
