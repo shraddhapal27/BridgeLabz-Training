@@ -390,5 +390,24 @@ Studied:
 
   ---
   
+### 📅 Day 21 –  scenario based questions
+**(Date: 09-Jan-2026)**
+
+- Solved three scenario based questions named
+   - ArtWork
+   - FOodLoop
+   - SkillForge
+
+ 🔗Code Link:
+   [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day8)
+
+   ---
+
   
-  
+### 📅 Day 22 –  scenario based questions
+**(Date: 10-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+- In these questions concept of linked list, hashmap, stack, queues is used.
+
+   
