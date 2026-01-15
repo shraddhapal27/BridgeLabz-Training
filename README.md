@@ -81,3 +81,19 @@ This repository documents my day-wise learning progress during the BridgeLabz Co
 **(Date: 10-Jan-2026)**
 - Practiced scenario based questions on Data structures and algorithms
 - In these questions concept of linked list, hashmap, stack, queues is used.
+
+---
+
+### Day 7 - Scenario Based problem
+**(Date: 12-Jan-2026)**
+- Practiced four scenario based questions on Data structures and algorithms
+- In these questions concept of linked list, hashmap, stack, queues is used.
+
+---
+
+### Day 8 - Scenario Based problem
+**(Date: 13-Jan-2026)**
+- Practiced four scenario based questions on Data structures and algorithms
+- In these questions concept of linked list, hashmap, stack, queues is used.
+
+---
