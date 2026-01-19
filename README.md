@@ -175,7 +175,7 @@ BridgeLabz-Training/
 -Pushed all programs to GitHub
 
 🔗 Code Link:
-[Day 10 –  Constructors & Access Modifiers](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com)
+[Day 10 –  Constructors and Access Modifiers](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com)
 
 ---
 
@@ -200,8 +200,8 @@ Studied:
 - Codes written and pushed to GitHub
 
 🔗 Code Link:
-[OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)    &  
-
+[OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords) 
+&
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
