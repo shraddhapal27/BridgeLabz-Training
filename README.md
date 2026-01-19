@@ -200,7 +200,7 @@ Studied:
 - Codes written and pushed to GitHub
 
 🔗 Code Link:
-[OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+[OOPs keywords](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)    &  
 
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
@@ -232,7 +232,7 @@ Studied:
 
  🔗 Code Link:
  [OOPs modelling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/oopsmodelling)
- 
+ &
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
 ---
@@ -253,7 +253,7 @@ Studied:
 
 🔗 Code Link:
 [Inheritance](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
-
+&
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
 
 ---
@@ -268,7 +268,7 @@ Studied:
   - Online Shopping Cart
 
 🔗Code Link:  [Encapsulation,Polymorphism,Abstract Class & Interface](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
-
+&
 [Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day1)
 
 # Week 3: Data Structures and Algorithms
@@ -287,7 +287,7 @@ Studied:
  
 🔗Code Link:
 [LinkedList Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com)
-
+&
 [Scenario-based Problems](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day2)
 
 ---
@@ -307,7 +307,7 @@ Studied:
 
  🔗Code Link: 
  [Stack, Queue, hash map and functions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandhashproblems)
- 
+ &
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day3)
 
 ---
@@ -328,7 +328,7 @@ Studied:
    
    🔗Code Link: 
    [Sorting](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
-  
+  &
    [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day4)
 
   ---
@@ -360,7 +360,7 @@ Studied:
 
  🔗Code Link: 
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day5)
- 
+ &
  [Searching algorithms](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/searching)
 
 ---
@@ -480,6 +480,7 @@ Studied:
 
 🔗Code Link:
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day5)
+&
 [Collection Framework](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/JavaCollections)
 
   ---
@@ -497,6 +498,7 @@ Studied:
  
 🔗Code Link:
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day11)
+&
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day6)
  
     
