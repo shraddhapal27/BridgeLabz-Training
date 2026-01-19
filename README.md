@@ -237,4 +237,15 @@ Code link : [Day-3 questions](https://github.com/shraddhapal27/BridgeLabz-Traini
 - Code Link:
   [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day8)
 
+---
 
+### 🔹 Day 2
+**Topics Studied:**
+
+- Solved three scenario based questions including
+    - HomeNest
+    - BudgetWise
+    - GameBox
+
+- Code Link:
+- [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day9)
