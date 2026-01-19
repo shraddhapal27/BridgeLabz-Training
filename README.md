@@ -410,4 +410,96 @@ Studied:
 - Practice scenario based questions on Data structures and algorithms
 - In these questions concept of linked list, hashmap, stack, queues is used.
 
-   
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day1)
+
+   ---
+
+### 📅 Day 23 –  scenario based questions
+**(Date: 12-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - Call Center
+  - Train comparison
+  - Text Editor
+  - HomeNest
+  - BudgetWise
+  - GameBox
+  - Traffic Manager
+  - BookShelf
+
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day2)
+
+  ---
+
+### 📅 Day 24 –  scenario based questions
+**(Date: 13-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+   - SmartCheckout
+   - ParcelTracker
+   - ExamProctor
+   - BirdSanctuary
+   - PayExpress
+ 
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day3)
+ 
+---
+
+### 📅 Day 25 –  scenario based questions
+**(Date: 15-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+   - HospitalQueue
+   - SmartShelf
+   - ZipZipMart
+   - EventManager
+   - ExamCell
+ 
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day4)
+ 
+---
+
+### 📅 Day 26 –  scenario based questions
+**(Date: 16-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+   - RoboWarehouse
+   - CinemaHouse
+   - CropMonitor
+ 
+- Studied about Java Collection Framework and solved related questions on them.
+    - Learned about list interface, set interface and map interface.
+    - Learned to create ArrayList, LinkedList, Hashmaps, Hashsets using collections
+    - Solved questions on collections.
+ 
+
+
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day5)
+[Collection Framework](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/JavaCollections)
+
+  ---
+
+### 📅 Day 27 –  scenario based questions
+**(Date: 17-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - ArtExpo
+  - FleetManager
+  - IceCreamRush
+  - SmartLibrary
+  - GeoMeasurer
+  - Bag n Ball organiser
+ 
+🔗Code Link:
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/OOPsScenario/src/com/Day11)
+[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day6)
+ 
+    
+  
+
+
