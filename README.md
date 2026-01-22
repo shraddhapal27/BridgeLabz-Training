@@ -451,6 +451,15 @@ Studied:
 ### 📅 Day 25 –  scenario based questions
 **(Date: 15-Jan-2026)**
 
+- Learned Generics basics: type safety, reusability, compile-time checks, and removal of type casting.
+- Practiced generic classes, methods, bounded types, and wildcards.
+- Implemented real-world scenarios:
+- Smart Warehouse – Generic storage with bounded types.
+- Online Marketplace – Generic products and discount methods.
+- University Course System – Managed multiple course types using wildcards.
+- Meal Plan Generator – Validated meal categories with bounded generics.
+- AI Resume Screening – Processed resumes for multiple job roles safely.
+
 - Practice scenario based questions on Data structures and algorithms
    - HospitalQueue
    - SmartShelf
@@ -460,6 +469,8 @@ Studied:
  
 🔗Code Link:
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day4)
+&
+[Java Generics](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/javagenerics)
  
 ---
 
@@ -471,12 +482,10 @@ Studied:
    - CinemaHouse
    - CropMonitor
  
-- Studied about Java Collection Framework and solved related questions on them.
-    - Learned about list interface, set interface and map interface.
-    - Learned to create ArrayList, LinkedList, Hashmaps, Hashsets using collections
-    - Solved questions on collections.
- 
-
+- Practiced List, Set, Queue, and Map interfaces with real-world problems.
+- Implemented list operations, set calculations, queue/stack simulations, and map-based analytics.
+- Built Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
+- Focused on data handling, ordering, and performance comparison.
 
 🔗Code Link:
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day5)
@@ -501,7 +510,35 @@ Studied:
 &
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day6)
  
-    
-  
+---
+
+### 📅 Day 28 –  scenario based questions
+**(Date: 18-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - EduResults
+  - FitnessTracker
+  - FlashDealz
+ 
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day7)
+
+### 📅 Day 28 –  scenario based questions
+**(Date: 19-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - MovieTime
+  - FoodFest
+  - GamerZone
+ 
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day8)
+
+### 📅 Day 28 –  scenario based questions
+**(Date: 20-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - TaiorShop
+  - MedWarehouse
+
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
 
 
