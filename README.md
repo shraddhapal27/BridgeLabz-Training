@@ -522,7 +522,7 @@ Studied:
  
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day7)
 
-### 📅 Day 28 –  scenario based questions
+### 📅 Day 29 –  scenario based questions
 **(Date: 19-Jan-2026)**
 
 - Practice scenario based questions on Data structures and algorithms
@@ -532,7 +532,7 @@ Studied:
  
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day8)
 
-### 📅 Day 28 –  scenario based questions
+### 📅 Day 30 –  scenario based questions
 **(Date: 20-Jan-2026)**
 
 - Practice scenario based questions on Data structures and algorithms
