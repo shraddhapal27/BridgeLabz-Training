@@ -145,7 +145,7 @@ This repository documents my day-wise learning progress during the BridgeLabz Co
 ---
 
 ### Day 12 – scenario based questions
-**(Date: 19-Jan-2026)**
+**(Date: 18-Jan-2026)**
 
 - Practice scenario based questions on Data structures and algorithms
   - EduResults
