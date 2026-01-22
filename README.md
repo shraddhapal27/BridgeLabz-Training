@@ -97,3 +97,85 @@ This repository documents my day-wise learning progress during the BridgeLabz Co
 - In these questions concept of linked list, hashmap, stack, queues is used.
 
 ---
+
+### Day 9 - Scenario Based problems
+**(Date: 15-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - HospitalQueue
+  - SmartShelf
+  - ZipZipMart
+  - EventManager
+  - ExamCell
+
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day4)
+
+---
+
+ ### Day 10 – scenario based questions
+ **(Date: 16-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+
+  - RoboWarehouse
+  - CinemaHouse
+  - CropMonitor
+- Studied about Java Collection Framework and solved related questions on them.
+- Learned about list interface, set interface and map interface.
+- Learned to create ArrayList, LinkedList, Hashmaps, Hashsets using collections
+- Solved questions on collections.
+
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day5)
+
+--- 
+
+### Day 11 – scenario based questions
+**(Date: 17-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - ArtExpo
+  - FleetManager
+  - IceCreamRush
+  -  SmartLibrary
+  - GeoMeasurer
+  - Bag n Ball organiser
+    
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day6)
+
+---
+
+### Day 12 – scenario based questions
+**(Date: 19-Jan-2026)**
+
+- Practice scenario based questions on Data structures and algorithms
+  - EduResults
+  - FitnessTracker
+  - FlashDealz
+
+ 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day7)
+
+ ---
+
+ ### Day 13 – scenario based questions
+ **(Date: 19-Jan-2026)**
+ 
+- Practice scenario based questions on Data structures and algorithms
+  - MovieTime
+  - FoodFest
+  - GamerZone
+ 
+ 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day8)
+
+ ---
+
+  ### Day 14 – scenario based questions
+ **(Date: 20-Jan-2026)**
+ 
+- Practice scenario based questions on Data structures and algorithms
+  - TaiorShop
+  - MedWarehouse
+ 
+ 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
+
+
+    
