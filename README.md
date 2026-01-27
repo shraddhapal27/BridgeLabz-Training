@@ -13,3 +13,12 @@
 
 ---
 
+### 📅 Day 02 – JSON Data
+(Date: 24-Jan-2026)
+
+- Learnt about:-
+  - JSON
+  - Reading JSON Data
+  - Writing JSON Data
+  - Parsing JSON Data
+  - JSON Schema Validation
