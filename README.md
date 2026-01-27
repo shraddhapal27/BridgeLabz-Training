@@ -522,6 +522,8 @@ Studied:
  
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day7)
 
+---
+
 ### 📅 Day 29 –  scenario based questions
 **(Date: 19-Jan-2026)**
 
@@ -532,13 +534,24 @@ Studied:
  
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day8)
 
-### 📅 Day 30 –  scenario based questions
+---
+
+### 📅 Day 30 – Exception-Handling & scenario based questions
 **(Date: 20-Jan-2026)**
 
-- Practice scenario based questions on Data structures and algorithms
+- Studied about exception handling
+   - Learnt about try-catch block
+   - studied finally block
+   - Learnt to handle exceptions with these blocks
+   - Learnt about throw throws keyword
+   - Learnt about custom exceptions
+- Practiced scenario based questions on Data structures and algorithms
   - TaiorShop
   - MedWarehouse
 
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
+&
+🔗Code Link: [Exception Handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
 
+---
 
