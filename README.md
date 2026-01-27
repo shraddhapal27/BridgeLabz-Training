@@ -610,3 +610,20 @@ Studied:
 
 ---
 
+### 📅 Day 34 –  scenario based questions & JSON Data
+**(Date: 24-Jan-2026)**
+
+- Learnt about:-
+  - JSON
+  - Reading JSON Data
+  - Writing JSON Data
+  - Parsing JSON Data
+  - JSON Schema Validation
+- Solved scenario based questions
+  - MedInventory
+  - ChatlogParser
+  - SongVault
+  - ExamResultUploader
+  - DealTracker
+    
+ 🔗Code Link:[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day2)
