@@ -591,3 +591,22 @@ Studied:
 🔗Code Link: [Reflections](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)
 
 ---
+
+
+### 📅 Day 33 –  scenario based questions & Regex and Junit
+**(Date: 23-Jan-2026)**
+- Learnt about:-
+  - CSV
+  - Reading CSV Files
+  - Writing CSV Files
+  - Parsing CSV Data
+  - Data Validation
+ 
+- Solved scenario based questions on Collections, Generics,I/O Streams, and Regex.
+
+🔗Code Link: [CSV handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-iostream-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/main/java/com/CSV)
+&
+🔗Code Link: [](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day1)
+
+---
+
