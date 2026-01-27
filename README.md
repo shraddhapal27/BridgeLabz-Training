@@ -550,8 +550,7 @@ Studied:
   - MedWarehouse
 
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
-&
-🔗Code Link: [Exception Handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
+& [Exception Handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptionhandling)
 
 ---
 
@@ -566,7 +565,7 @@ Studied:
 - Solved practice questions on regex and Junit.
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
   &
-🔗Code Link: [Regex](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+ [Regex](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
 
 ---
 
@@ -588,7 +587,7 @@ Studied:
   
 🔗Code Link: [Annotations](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
 &
-🔗Code Link: [Reflections](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)
+ [Reflections](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)
 
 ---
 
@@ -606,7 +605,7 @@ Studied:
 
 🔗Code Link: [CSV handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-iostream-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/main/java/com/CSV)
 &
-🔗Code Link: [](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day1)
+ [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day1)
 
 ---
 
@@ -626,4 +625,4 @@ Studied:
   - ExamResultUploader
   - DealTracker
     
- 🔗Code Link:[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day2)
+ 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day2)
