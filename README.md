@@ -555,3 +555,18 @@ Studied:
 
 ---
 
+### 📅 Day 31 –  scenario based questions & Regex and Junit
+**(Date: 21-Jan-2026)**
+
+- Practiced scenario based questions on Data structures and algorithms and Binary Search Trees.
+   - TailorShop
+   - Medwarehouse
+   - Binary Search Tree
+- Learn about Regex and Junit in java
+- Solved practice questions on regex and Junit.
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day9)
+  &
+🔗Code Link: [Regex](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regex)
+
+---
+
