@@ -570,3 +570,24 @@ Studied:
 
 ---
 
+### 📅 Day 32 –  scenario based questions & Regex and Junit
+**(Date: 22-Jan-2026)**
+
+- Practice scenario based on AVL trees which included insert delete update operations.
+- Worked on annotations and reflections
+  -  Introduction to Annotations
+  -  Common Built-in Annotations
+  -  Creating Custom Annotations
+  -  Advanced Custom Annotations
+  -  Real-World Use Cases
+  -  Annotation Processing Tools
+- Reflection
+  - Understanding of Reflection
+  - Using Reflection in Java
+  - Annotations and Reflection
+  
+🔗Code Link: [Annotations](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+&
+🔗Code Link: [Reflections](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)
+
+---
