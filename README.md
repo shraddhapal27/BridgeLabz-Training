@@ -604,7 +604,7 @@ Studied:
 - Solved scenario based questions on Collections, Generics,I/O Streams, and Regex.
 
 🔗Code Link: [CSV handling](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-iostream-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/main/java/com/CSV)
-&
+ &
  [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day1)
 
 ---
@@ -626,3 +626,5 @@ Studied:
   - DealTracker
     
  🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day2)
+  &
+ [JSON](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-iostream-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/main/java/com/JSON)
