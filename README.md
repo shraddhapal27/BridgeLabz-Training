@@ -643,3 +643,15 @@ Studied:
   - Practiced problems on methods references
     
 🔗Code Link: [Lambda Expressions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lambdaexpression)
+
+---
+
+### 📅 Day 36 –  Functional Interface
+**(Date: 27-Jan-2026)**
+- Learnt about
+   - Defining and Implementing Interfaces (Best Practices)
+   -  Functional Interfaces
+   -   Default and Static Methods in Interfaces
+   -    Marker Interfaces
+
+🔗Code Link: [Functional Interface](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface)
