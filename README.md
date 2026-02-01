@@ -447,7 +447,7 @@ Studied:
 [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioProblems/src/com/Day3)
  
 ---
-
+# Week 4: Java Collections, streams
 ### 📅 Day 25 –  scenario based questions
 **(Date: 15-Jan-2026)**
 
@@ -591,7 +591,7 @@ Studied:
 
 ---
 
-
+# Week 5: IO Programming
 ### 📅 Day 33 –  scenario based questions & CSV Handling
 **(Date: 23-Jan-2026)**
 - Learnt about:-
@@ -628,3 +628,17 @@ Studied:
  🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioProblems/src/com/Day2)
   &
  [JSON](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-iostream-practice/java-iostreams-practice/gcr-codebase/JavaIOstreamPractice/src/main/java/com/JSON)
+
+---
+
+# Week 6: Java8 & its features
+### 📅 Day 35 –  Java8 (Lambda Expressions)
+**(Date: 27-Jan-2026)**
+- Learnt about
+  -Lambda Expressions
+    - Features
+    - Advantages
+    - Practice and solved basic problems on it
+  - Method References
+      - Practiced problems on methods references
+🔗Code Link: [Lambda Expressions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lambdaexpression)
