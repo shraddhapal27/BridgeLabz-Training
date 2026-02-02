@@ -655,3 +655,17 @@ Studied:
    -    Marker Interfaces
 
 🔗Code Link: [Functional Interface](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/functionalinterface)
+
+---
+
+### 📅 Day 37 – Stream API
+**(Date: 28-Jan-2026)**
+- Learnt about
+ - Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip.
+ - Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch.
+ - Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+ - Ordered vs unordered streams
+ - Parallel streams
+ - forEach() — Iterable vs Stream
+
+🔗Code Link: [Stream API](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi)
