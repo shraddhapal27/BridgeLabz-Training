@@ -669,3 +669,16 @@ Studied:
  - forEach() — Iterable vs Stream
 
 🔗Code Link: [Stream API](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/streamapi)
+
+---
+
+### 📅 Day 38 – Collectors
+**(Date: 28-Jan-2026)**
+- Learnt about
+  - Collectors - Roles and Capabilities
+  - Various functions of collectors
+
+🔗Code Link: [Collectors](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/collectors)
+
+---
+
