@@ -1,4 +1,4 @@
-package com.Day1.problem1;
+package com.employee;
 
 
 public class Employee {
