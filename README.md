@@ -682,3 +682,20 @@ Studied:
 
 ---
 
+### 📅 Day 39 – Scenario Based problems
+**(Date: 28-Jan-2026)**
+- Solved scenario baased on streams
+- used its built in functions i.e intermediate and terminal functions
+
+🔗Code Link:[Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8ScenarioProblems/src/com)
+
+---
+
+### 📅 Day 40 – Logical problem of streams
+**(Date: 31-Jan-2026)**
+- Solved logical problems on streams
+
+🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-based/Java8LogicalProblems/src/com)
+
+ 
+
