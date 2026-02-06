@@ -1,4 +1,4 @@
-package com.Day1.problem2;
+package com.student;
 
 import java.util.List;
 
