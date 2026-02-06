@@ -705,11 +705,11 @@ Studied:
   - You Aren't Gonna Need It (YAGNI)
 
 - Categories of Patterns (GoF classification)
- - Singleton Pattern
- - Factory Pattern
- - Observer Pattern
- - Builder Pattern
- - UML Designing
+  - Singleton Pattern
+  - Factory Pattern
+  - Observer Pattern
+  - Builder Pattern
+  - UML Designing
 
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-based/Java8LogicalProblems/src/com)
 &
