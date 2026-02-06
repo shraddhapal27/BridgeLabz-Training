@@ -691,11 +691,29 @@ Studied:
 
 ---
 
-### 📅 Day 40 – Logical problem of streams
+### 📅 Day 40 – Logical problem of streams and Java Design-Patterns and principles practice
 **(Date: 31-Jan-2026)**
 - Solved logical problems on streams
+- Learnt about design principles:-
+  - Single Responsibility Principle (SRP)
+  - Open/Closed Principle (OCP)
+  - Liskov Substitution Principle (LSP)
+  - Interface Segregation Principle (ISP)
+  - Dependency Inversion Principle (DIP)
+  - Don't Repeat Yourself (DRY)
+  - Keep It Simple, Stupid (KISS)
+  - You Aren't Gonna Need It (YAGNI)
+
+- Categories of Patterns (GoF classification)
+ - Singleton Pattern
+ - Factory Pattern
+ - Observer Pattern
+ - Builder Pattern
+ - UML Designing
 
 🔗Code Link: [Scenario Based](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-based/Java8LogicalProblems/src/com)
-
- 
+&
+[Design Pattern and principles](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaDesignPatternPractice/src/com/problem1)
+             
+---
 
