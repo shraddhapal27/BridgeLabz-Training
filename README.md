@@ -10,6 +10,8 @@
 - Practice and solved basic problems on it
 - Method References
 - Practiced problems on methods references
-🔗Code Link: [Lambda Expressions]()
+🔗Code Link: [Lambda Expressions](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingPractice/src/com/lambdaexpression)
 
 --- 
+
+
