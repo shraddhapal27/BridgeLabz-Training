@@ -1,0 +1,48 @@
+
+
+Exercise 1: Simple CRUD Application
+Create a console-based Employee Management System with:
+• Add employee
+• View all employees
+• Update employee salary
+• Delete employee
+• Search employee by name
+
+mysql> create table employee(
+       emp_id int primary key,
+       name varchar(50) not null, 
+       department varchar(50), 
+       salary decimal(10,2));
+Query OK, 0 rows affected (0.14 sec)
+
+mysql> insert into employee(
+emp_id, name, department, salary) values(01,'Shraddha', 'IT', 50000),(03,'Kridha', 'CS', 70000),(05,'Aadi','IT', 65000);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select * from employee;
++--------+----------+------------+----------+
+| emp_id | name     | department | salary   |
++--------+----------+------------+----------+
+|      1 | Shraddha | IT         | 50000.00 |
+|      3 | Kridha   | CS         | 70000.00 |
+|      5 | Aadi     | IT         | 65000.00 |
++--------+----------+------------+----------+
+3 rows in set (0.01 sec)
+
+
+mysql> update employee set salary = 55000 where emp_id = 01;
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+
+mysql> delete from employee where emp_id = 02;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from employee where name = "Aadi";
++--------+------+------------+----------+
+| emp_id | name | department | salary   |
++--------+------+------------+----------+
+|      5 | Aadi | IT         | 65000.00 |
++--------+------+------------+----------+
+1 row in set (0.01 sec)
