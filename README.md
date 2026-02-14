@@ -725,3 +725,28 @@ Studied:
 - Practical examples and scenarios were practised to strengthen the concept.
  
 🔗Code Link: [Java Multithreading](https://github.com/shraddhapal27/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/MultithreadingPractice/src/com)
+
+---
+
+### 📅 Day 42 – Mysql Practice
+**(Date: 06-Feb-2026)**
+
+- studied and practiced basic SQL queries using the command line interface.
+- learned how to create databases and tables, and performed CRUD operations such as inserting, updating, deleting, and retrieving data. I also practiced using important SQL concepts like primary keys, constraints, and search queries
+- This helped me understand how databases work and how to manage and manipulate data efficiently using SQL.
+
+🔗Code Link: [Mysql](https://github.com/shraddhapal27/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/SqlJdbcPractice/src)
+
+---
+
+### 📅 Day 43 – Mysql Practice
+**(Date: 09-Feb-2026)**
+
+- studied JDBC (Java Database Connectivity) and learned how to connect Java applications with a MySQL database.
+- practiced performing CRUD operations such as inserting, updating, deleting, and retrieving data using PreparedStatement and ResultSet.
+- also implemented transaction management using commit and rollback to ensure data consistency.
+- This helped me understand how Java interacts with databases to build real-world applications like employee and banking systems.4
+
+🔗Code Link: [JDBC](raining/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/JdbcDemo/src/main/java/com/jdbc/JdbcDemo)
+
+---
