@@ -1,11 +1,11 @@
 package day13.homework;
 
-public class EmployeeId {
+public class Employee {
     private String name;
     private static int nextId = 1001;
     private int employeeId;
 
-    EmployeeId(String name, int employeeId){
+    Employee(String name){
         this.name = name;
         this.employeeId = nextId;
         nextId++;
@@ -20,7 +20,7 @@ public class EmployeeId {
     }
 
     public static void main(String[] args) {
-        EmployeeId e1 = new EmployeeId("Rahul");
+        Employee e1 = new Employee("Rahul");
         Employee e2 = new Employee("Aman");
         Employee e3 = new Employee("Priya");
         Employee e4 = new Employee("Neha");
