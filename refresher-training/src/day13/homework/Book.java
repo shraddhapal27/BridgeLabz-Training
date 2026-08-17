@@ -1,4 +1,4 @@
-package day13.hackerrank.LibraryBook;
+package day13.homework;
 
 public class Book {
     static long totalBooksInLibrary;
